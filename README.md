@@ -1,9 +1,5 @@
 # BetterRTX Presets
 
-## Generate a UUID
-
-Each pack needs its own UUID. Easily [generate one online](https://www.uuidgenerator.net/) or in VS Code by pressing `Shift+Alt+U`.
-
 ## Generate a Preset
 
 Preset settings can be generated using the [BetterRTX Creator](https://bedrock.graphics/creator) tool. Download and test the `.rtpack` output to find your desired settings.
@@ -22,9 +18,15 @@ The settings file can also be manually adjusted in a JSON file editor, such as V
 
 ## Clone the Repository
 
-Clone this repo to begin adding your preset.
+Clone this repo to begin adding your preset. Run the [New-Preset.ps1](./New-Preset.ps1) script with PowerShell.
 
-Save the preset settings in `./presets/[Your UUID]/settings.json`
+```powershell
+.\New-Preset.ps1
+```
+
+This will create a placeholder directory for your preset.
+
+Save the preset settings in `./data/[Your UUID]/settings.json`
 
 ### Write a README
 
@@ -42,7 +44,7 @@ name: "Website Friendly Title"
 installerTitle: "The Text Displayed in the Installer"
 version: 1.0.0
 brtxVersion: 1.3
-lastUpdated: 2025-01-10
+lastUpdated: 2025-02-14
 author: Not Mojang
 hash: [Optional settings hash from Creator output]
 rtxStub: [RTXStub.material.bin URL]
@@ -59,11 +61,12 @@ bloomChecksum: [SHA-256 file chucksum]
 
 ## Create PR
 
-Create a pull request to add the new preset.
+Commit the changes and create a pull request to add the new preset.
 
 ## Wait for Approval
 
-Once reviewed and merged, the preset data will be pushed to bedrock.graphics.
+Once reviewed and merged, the preset data will be pushed to [bedrock.graphics](https://bedrock.graphics "BetterRTX official website").
+
 ## Create a Discord Post
 
 Copy the preset link from https://bedrock.graphics/presets
