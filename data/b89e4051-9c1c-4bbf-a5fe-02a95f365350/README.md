@@ -18,6 +18,7 @@ Here I've added many new things and improved a ton of other features as well. Ma
 - **Multi-Sampled BSDF** - more accurate lighting thanks to multiple bsdf bounces
 - **Improved GI bounces** - Gi bounces more realistically and much more accurate
 - **New Sky Model** - much more accurate ray marched atmosphere
-- **AI Ray Reconstruction+™** – Rebuilds rays *before* they even exist!  
-- **AND MOBILE COMPATIBILITY**
+- **AI Ray Reconstruction+™** – Rebuilds rays *before* they even exist!
+
+
 Theres honestly too much to list so please get out there and test and we couldnt have gotten this out without all of your patience!
