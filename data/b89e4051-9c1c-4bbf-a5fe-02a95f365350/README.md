@@ -2,7 +2,7 @@
 name: "BetterRTX: Rewrite"
 installerTitle: "BetterRTX: Rewrite"
 version: 2.0.0
-brtxVersion: 2.0
+brtxVersion: 4.1.25
 lastUpdated: 2025-04-01
 author: QuirkyPlague
 rtxStub: https://drive.google.com/file/d/1NGHairEWB8PmVKrfT0LEkEN4vPlzINjF/view?usp=drive_link
