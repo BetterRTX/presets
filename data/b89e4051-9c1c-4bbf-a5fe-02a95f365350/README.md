@@ -21,4 +21,4 @@ Here I've added many new things and improved a ton of other features as well. Ma
 - **AI Ray Reconstruction+™** – Rebuilds rays *before* they even exist!
 
 
-Theres honestly too much to list so please get out there and test and we couldnt have gotten this out without all of your patience!
+There's honestly too much to list so please get out there and test and we couldn't have gotten this out without all of your patience!
