@@ -13,11 +13,11 @@ function New-Preset {
     # Create README.md
     $readmeContent = @"
 ---
-name: "Vibrant preset"
-installerTitle: "Vibrant preset"
+name: "Vibrant"
+installerTitle: "Better RTX 1.3 : Vibrant preset"
 version: 1.0.0
 brtxVersion: 1.3
-lastUpdated: 2025-02-14
+lastUpdated: 2025-04-25
 author: K3013
 hash: [Optional settings hash from Creator output]
 rtxStub: [RTXStub.material.bin URL]
