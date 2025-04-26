@@ -13,12 +13,12 @@ function New-Preset {
     # Create README.md
     $readmeContent = @"
 ---
-name: "Vibrant"
-installerTitle: "Better RTX 1.3 : Vibrant preset"
+name: "Website Friendly Title"
+installerTitle: "The Text Displayed in the Installer"
 version: 1.0.0
 brtxVersion: 1.3
-lastUpdated: 2025-04-25
-author: K3013
+lastUpdated: 2025-02-14
+author: Not Mojang
 hash: [Optional settings hash from Creator output]
 rtxStub: [RTXStub.material.bin URL]
 rtxChecksum: [SHA-256 file chucksum]
@@ -30,13 +30,7 @@ bloomChecksum: [SHA-256 file chucksum]
 
 # My Preset
 
-This is a recreation of vibrant visuals for RTX
-- Improved Shadows
-- Emissive Entities ( Like EVERY Better RTX preset )
-- A little Chromatic Aberation
-- Dynamic lights
-- BIG waves on water
-- AGX Golden Tonemapping
+Add your preset description here.
 "@
 
     $readmeContent | Out-File -FilePath (Join-Path $presetDir "README.md") -Encoding UTF8
