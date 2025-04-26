@@ -7,6 +7,6 @@
 ## You can't :
       - Attribute this preset like " This preset was made by "StupidNoob6748""
       - Create a virusinator version for give me a bad reputation
-      - Upload a fake news video for the same reason according the previous "you can't..... "
+      - Upload a fake news video for the same reason according to the previous "you can't..... "
       - Upload the preset on 9Minecraft, MCPEland or other mod stealers
 # I can REPORT your content if you break this rules.
