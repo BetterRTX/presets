@@ -1,6 +1,7 @@
 ﻿---
-name: "Vibrant"
-installerTitle: "Better RTX 1.3 : Vibrant preset"
+name: Vibrant
+slug: k3013-vibrant-preset
+installerTitle: "Better RTX 1.3: Vibrant preset"
 version: 1.0.0
 brtxVersion: 1.3
 lastUpdated: 2025-04-25
