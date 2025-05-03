@@ -1,4 +1,4 @@
-﻿---
+---
 name: Vibrant
 slug: k3013-vibrant-preset
 installerTitle: "Better RTX 1.3: Vibrant preset"
