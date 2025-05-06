@@ -1,9 +1,9 @@
 ---
 name: Vibrant
 slug: k3013-vibrant-preset
-installerTitle: "Better RTX 1.3: Vibrant preset"
+installerTitle: "BetterRTX 1.3.1: Vibrant Preset By K3013"
 version: 1.0.0
-brtxVersion: 1.3
+brtxVersion: 1.3.1
 lastUpdated: 2025-04-25
 author: K3013
 rtxStub: https://static.bedrock.graphics/presets/k3013-vibrant-preset/RTXStub.material.bin
