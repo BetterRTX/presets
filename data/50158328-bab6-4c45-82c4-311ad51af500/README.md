@@ -9,6 +9,7 @@ authorURL: https://github.com/K3013
 rtxStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXStub.material.bin
 toneMappingStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXPostFX.Tonemapping.material.bin
 bloomStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXPostFX.Bloom.material.bin
+tags: []
 ---
 
 # BetterRTX : Reworked 
