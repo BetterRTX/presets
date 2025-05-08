@@ -29,4 +29,5 @@ It include :
 
 # Note :
 This is an unofficial Reworked version of BetterRTX :
-Original base presets is made by @MADLAB and John
+
+Original base preset is made by @MADLAB and John
