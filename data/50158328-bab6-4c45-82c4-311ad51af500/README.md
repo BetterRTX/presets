@@ -36,4 +36,4 @@ Original base preset is made by @MADLAB and John
 More reworked version like "DoF" is under work
 
 # Recommandations :
-Use "A random shadered RTX pack" or "Vanilla RTX Pure by CubeIR" setting enhanced for a better experience
+"Vanilla RTX Pure by CubeIR" setting enhanced + "Mr. Atlaz's Super Dynamic Lights" for a better experience
