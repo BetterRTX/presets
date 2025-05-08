@@ -9,7 +9,7 @@ authorURL: https://github.com/K3013
 rtxStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXStub.material.bin
 toneMappingStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXPostFX.Tonemapping.material.bin
 bloomStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXPostFX.Bloom.material.bin
-tags: []
+tags: [Rain, Tone Mapping, Water, Realistic, Survival, Sky, Motion Blur]
 ---
 
 # BetterRTX : Reworked 
@@ -32,3 +32,5 @@ It include :
 This is an unofficial Reworked version of BetterRTX :
 
 Original base preset is made by @MADLAB and John
+
+More reworked version like "DoF" is under work
