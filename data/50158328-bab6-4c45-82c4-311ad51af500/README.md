@@ -11,4 +11,6 @@ toneMappingStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/R
 bloomStub: https://github.com/K3013/BetterRTX-reworked-storage/blob/main/RTXPostFX.Bloom.material.bin
 ---
 
-# BetterRTX : Reworked
+# BetterRTX : Reworked 
+
+This is a reworked version of BetterRTX : basicaly the original experience but better ( You can tell this preset : Better BetterRTX )
