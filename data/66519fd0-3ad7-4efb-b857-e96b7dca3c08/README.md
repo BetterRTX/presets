@@ -19,7 +19,7 @@ Gilded Graphics is a completely new take on the style of BetterRTX, introducing 
 
 Features:
 
-- Pixelated shadows, reflections, and global illumination!
+- Pixelated shadows, reflections, global illumination, and light emission!
 - Flashes of light in The End!
 - Completely redone colour grading!
 - All BetterRTX 1.4 features!
