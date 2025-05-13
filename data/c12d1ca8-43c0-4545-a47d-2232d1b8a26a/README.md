@@ -1,7 +1,7 @@
 ---
-name: "BetterRTX 1.4: Depth of Field"
-installerTitle: "BetterRTX 1.4: Depth of Field"
-slug: betterrtx-depth-of-field
+name: "BetterRTX 1.4: Pixelated Lighting"
+installerTitle: "BetterRTX 1.4: Pixelated Lighting"
+slug: betterrtx-pixelated-lighting
 version: 1.4
 brtxVersion: 1.4
 rtxStub: https://drive.google.com/file/d/1HI3T9jPpTacpkeFRMYNHk64V0X5oQRc4/view?usp=sharing
@@ -9,7 +9,7 @@ toneMappingStub: https://drive.google.com/file/d/1I8VaEl_btPThAoLil8Brg_l6U-bImG
 bloomStub: https://drive.google.com/file/d/1qBlB-oWJHHXbw1PhUSw5VEtYy__-D2Kx/view?usp=sharing
 lastUpdated: 2025-05-13
 author: "MADLAD & John"
-tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky, Depth of Field]
+tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky]
 sort: 2
 ---
 
