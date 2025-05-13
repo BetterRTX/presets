@@ -8,7 +8,7 @@ rtxStub: https://drive.google.com/file/d/1bte2zsakdiATuH9ybNZ6Y4f9UfWlIKer/view?
 toneMappingStub: https://drive.google.com/file/d/1p0v9VLHgceMWug-zEXBDNiD655wZBFpz/view?usp=sharing
 bloomStub: https://drive.google.com/file/d/1g-kdqR5IA207qs0mOWn-L2kfm1uBLvPt/view?usp=sharing
 lastUpdated: 2025-05-13
-author: "MADLAD"
+author: MADLAD
 tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky]
 sort: 1
 ---
