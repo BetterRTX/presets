@@ -6,7 +6,7 @@ brtxVersion: 1.4
 lastUpdated: 2025-05-18
 author: QuirkyPlague
 authorURL: https://discord.com/channels/@me/1281316135169560676/1281353931338940471
-rtxStub: https://drive.google.com/file/d/15dZh7oTK5v83qm4wroTGIvmiItCUSfML/view?usp=drive_link
+rtxStub: https://drive.google.com/file/d/1pAnT0WIZ2zMBKKkgqtux1j08Wssdtu_b/view?usp=drive_link
 toneMappingStub: https://drive.google.com/file/d/15dZh7oTK5v83qm4wroTGIvmiItCUSfML/view?usp=drive_link
 bloomStub: https://drive.google.com/file/d/1ee3KOH7nDCQlbHlTvPdF3s7XJ0KWrUI2/view?usp=drive_link
 tags: [Experimental, Tone Mapping, Sky]
