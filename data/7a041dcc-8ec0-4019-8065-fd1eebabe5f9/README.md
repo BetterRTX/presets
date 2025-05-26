@@ -1,13 +1,13 @@
 ---
-name: "BetterRTX 1.3.1: Depth of Field"
-installerTitle: "BetterRTX 1.3.1: Depth of Field"
+name: "BetterRTX 1.4: Depth of Field"
+installerTitle: "BetterRTX 1.4: Depth of Field"
 slug: betterrtx-depth-of-field
-version: 1.3.1
-brtxVersion: 1.3.1
-rtxStub: https://drive.google.com/file/d/1eFVwQirQdMIcCMA7itsksl7BcMifhr16/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/1W7iiyaVmLhDVRbzlFqhlTJdbF99XT2jv/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/13f49qgbeAAbSu28WWyP8QdVsbKhOtrc0/view?usp=sharing
-lastUpdated: 2025-02-21
+version: 1.4
+brtxVersion: 1.4
+rtxStub: https://drive.google.com/file/d/1HI3T9jPpTacpkeFRMYNHk64V0X5oQRc4/view?usp=sharing
+toneMappingStub: https://drive.google.com/file/d/1I8VaEl_btPThAoLil8Brg_l6U-bImG7h/view?usp=sharing
+bloomStub: https://drive.google.com/file/d/1qBlB-oWJHHXbw1PhUSw5VEtYy__-D2Kx/view?usp=sharing
+lastUpdated: 2025-05-13
 author: "MADLAD & John"
 tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky, Depth of Field]
 sort: 2
