@@ -1,9 +1,9 @@
 ---
 name: Infectious
-installerTitle: "BetterRTX 1.3.1: Infectious by QuirkyPlague"
-version: 1.5.2
-brtxVersion: 1.3.1
-lastUpdated: 2025-3-17
+installerTitle: "BetterRTX 1.4: Infectious by QuirkyPlague"
+version: 1.5.3
+brtxVersion: 1.4
+lastUpdated: 2025-5-26
 author: QuirkyPlague
 authorURL: https://discord.com/channels/@me/1281316135169560676/1281353931338940471
 rtxStub: https://drive.google.com/file/d/1QTqCvMCgKD9r--PY2KBQ0tIjvgwKPTKD/view?usp=sharing
@@ -20,7 +20,7 @@ Offers:
 
 - Cloud shadows
 - Darker nights
-- ACES Tonemapping
+- AgX Tonemapping
 - Globally illuminated fog
 - Greatly improved fog rendering 
 - Improved nether visuals
@@ -28,3 +28,4 @@ Offers:
 - Improved shadows
 - Custom water
 - Altered weather effects
+- Ambient Lighting
