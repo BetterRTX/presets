@@ -11,6 +11,7 @@ lastUpdated: 2025-06-01
 author: [K3013](https://github.com/K3013)
 tags: [Rain, Tone Mapping, Shadows, Survival, Water, Sky, Motion Blur]
 ---
+<p className="lead">A rewamped old preset!</p>
 
 # Vibrant Rewamped
 
