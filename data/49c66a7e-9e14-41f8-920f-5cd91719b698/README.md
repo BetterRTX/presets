@@ -2,22 +2,35 @@
 name: "Vibrant : Rewamped"
 installerTitle: "BetterRTX : Vibrant rewamped by K3013"
 version: 1.1
-brtxVersion: 1.3---
-name: "Website Friendly Title"
-installerTitle: "The Text Displayed in the Installer"
-version: 1.0.0
-brtxVersion: 1.3
-lastUpdated: 2025-06-01
+brtxVersion: 1.4
 author: K3013
 authorURL: https://github.com/K3013
 rtxStub: [RTXStub.material.bin URL]
-rtxChecksum: [SHA-256 file chucksum]
 toneMappingStub: [RTXPostFXTonemapping.material.bin URL]
-toneMappingChecksum: [SHA-256 file chucksum]
 bloomStub: [RTXPostFX.Bloom.material.bin URL]
-bloomChecksum: [SHA-256 file chucksum]
 ---
 
-# My Preset
+# Vibrant : Rewamped
 
-Add your preset description here.
+Before : A fanmade recreation of vibrant visuals
+
+After : A rewamped BetterRTX preset with ULTRA realism
+
+## Old features :
+- Improved Shadows
+- Emissive Entities
+- A little Chromatic aberration
+- Dynamic lights
+- BIG waves on water
+- AGX Golden Tonemapping
+
+## New features :
+- Smaller waves
+- Always improved shadows and emissive entities ( may be broken on 1.21.80 )
+- Smaller chromatic aberration
+- Dynamic lights
+- AGX Golden Tonemapping
+- Re-invented sky
+- Darker night
+
+###### Vibrant : Reworked is under the Vibrant license
