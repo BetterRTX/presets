@@ -13,7 +13,7 @@ tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky]
 sort: 1
 ---
 
-<p className="lead">A completely new RTX sahder preset with pixelated lighting!</p>
+<p className="lead">A completely new RTX shader preset with pixelated lighting!</p>
 
 Gilded Graphics is a completely new take on the style of BetterRTX, introducing comprehensive changes to the entire style. Every aspect of lighting, down to the smallest details, now aligns to the pixel grid of the game! Pixelated lighting will adapt to the resolution of any resource pack used, on any surface light touches!
 
