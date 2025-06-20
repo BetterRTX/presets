@@ -19,11 +19,10 @@ Solace Better RTX is a Better RTX Preset made to transform your Minecraft experi
 Offers:
 
 - Warm comfortable lighting 
-- Darker nights
+- Darker and more vibrant nights
 - AgX Tonemapping
 - GI fog
 - Improved nether visuals
 - Improved shadows
 - Custom water waves
 - Altered weather effects
-- Improved fog distribution
