@@ -3,7 +3,7 @@ name: Solace
 installerTitle: "BetterRTX 1.4: Solace by Gizmonaught"
 version: 1.0.0
 brtxVersion: 1.4
-lastUpdated: 2025-6-1
+lastUpdated: 2025-6-20
 author: Gizmonaught
 authorURL: https://discord.com/users/1056322421403160577
 rtxStub: https://drive.google.com/file/d/1Ky27KvEcDJf-TSshkDdv257zx4codILz/view?usp=sharing
