@@ -4,10 +4,10 @@ installerTitle: Gilded Graphics
 slug: gilded-graphics
 version: 1.0
 brtxVersion: 1.4
-rtxStub: https://drive.google.com/file/d/1bte2zsakdiATuH9ybNZ6Y4f9UfWlIKer/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/1p0v9VLHgceMWug-zEXBDNiD655wZBFpz/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/1g-kdqR5IA207qs0mOWn-L2kfm1uBLvPt/view?usp=sharing
-lastUpdated: 2025-05-13
+rtxStub: https://cdn.bedrock.graphics/presets/gilded-graphics/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/gilded-graphics/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/gilded-graphics/materials/RTXPostFX.Bloom.material.bin
+lastUpdated: 2025-09-30
 author: MADLAD
 tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky]
 sort: 1

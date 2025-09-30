@@ -3,12 +3,12 @@ name: Solace
 installerTitle: "BetterRTX 1.4: Solace by Gizmonaught"
 version: 1.0.0
 brtxVersion: 1.4
-lastUpdated: 2025-6-20
+lastUpdated: 2025-09-30
 author: Gizmonaught
 authorURL: https://discord.com/users/1056322421403160577
-rtxStub: https://drive.google.com/file/d/1Ky27KvEcDJf-TSshkDdv257zx4codILz/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/1DTERQxdgCMpbUVIbqkInRnMVwpimZEHw/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/1szbkdG4M1ECz77XYR7oS_tXBphTZSe7y/view?usp=sharing
+rtxStub: https://cdn.bedrock.graphics/presets/solace/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/solace/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/solace/materials/RTXPostFX.Bloom.material.bin
 tags: [Water, Tone Mapping, Shadows, Realistic, Rain, Survival, Sky]
 ---
 # Solace
