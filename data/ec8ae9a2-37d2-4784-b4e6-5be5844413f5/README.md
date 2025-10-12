@@ -3,12 +3,12 @@ name: Infectious
 installerTitle: "BetterRTX 1.4: Infectious by QuirkyPlague"
 version: 1.5.3
 brtxVersion: 1.4
-lastUpdated: 2025-5-26
+lastUpdated: 2025-09-30
 author: QuirkyPlague
 authorURL: https://discord.com/channels/@me/1281316135169560676/1281353931338940471
-rtxStub: https://drive.google.com/file/d/1QTqCvMCgKD9r--PY2KBQ0tIjvgwKPTKD/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/16rV2u7U3RBowyMuPhrEM9Bo7Ux928ir1/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/1JZIVZFM5JyjKbhUekuVN3poNNoKbWZxF/view?usp=sharing
+rtxStub: https://cdn.bedrock.graphics/presets/infectious/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/infectious/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/infectious/materials/RTXPostFX.Bloom.material.bin
 tags: [Water, Tone Mapping, Shadows]
 ---
 # Infectious

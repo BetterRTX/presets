@@ -3,12 +3,12 @@ name: Interstellar
 installerTitle: "BetterRTX 1.4: Interstellar by QuirkyPlague"
 version: 2.0.0
 brtxVersion: 1.4
-lastUpdated: 2025-05-18
+lastUpdated: 2025-09-30
 author: QuirkyPlague
 authorURL: https://discord.com/channels/@me/1281316135169560676/1281353931338940471
-rtxStub: https://drive.google.com/file/d/1pAnT0WIZ2zMBKKkgqtux1j08Wssdtu_b/view?usp=drive_link
-toneMappingStub: https://drive.google.com/file/d/15dZh7oTK5v83qm4wroTGIvmiItCUSfML/view?usp=drive_link
-bloomStub: https://drive.google.com/file/d/1ee3KOH7nDCQlbHlTvPdF3s7XJ0KWrUI2/view?usp=drive_link
+rtxStub: https://cdn.bedrock.graphics/presets/interstellar/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/interstellar/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/interstellar/materials/RTXPostFX.Bloom.material.bin
 tags: [Experimental, Tone Mapping, Sky]
 ---
 

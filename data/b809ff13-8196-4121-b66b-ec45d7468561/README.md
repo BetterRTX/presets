@@ -2,10 +2,10 @@
 name: GLITCHCORE
 version: 1.0.0
 brtxVersion: 1.2.2
-rtxStub: https://drive.google.com/file/d/1lKOX0IwRaWRokHxffN21ZjiJY5WcAThz/view?usp=drive_link
-toneMappingStub: https://drive.google.com/file/d/1pF2dKl_wHKWW4Y3VYejLQlPEu3NEAsxL/view?usp=drive_link
-bloomStub: https://drive.google.com/file/d/1dNtcnCxv4HLLFUb_Er8FA-BsnZlpSIqL/view?usp=sharing
-lastUpdated: 2024-08-30
+rtxStub: https://cdn.bedrock.graphics/presets/glitchcore/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/glitchcore/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/glitchcore/materials/RTXPostFX.Bloom.material.bin
+lastUpdated: 2025-09-30
 author: Jason
 authorURL: https://github.com/jasonjgardner
 tags: [Experimental, Chromatic Aberration]
