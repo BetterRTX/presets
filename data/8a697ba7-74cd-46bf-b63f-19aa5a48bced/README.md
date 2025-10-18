@@ -3,7 +3,7 @@ name: "Cat's Pack"
 installerTitle: "BetterRTX 1.2.2: Cat's Pack by ItsDrCat"
 version: 1.0.0
 brtxVersion: 1.2.2
-lastUpdated: 2024-09-21
+lastUpdated: 2024-10-18
 author: "ItsDrCat"
 rtxStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXStub.material.bin
 toneMappingStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXPostFX.Tonemapping.material.bin
