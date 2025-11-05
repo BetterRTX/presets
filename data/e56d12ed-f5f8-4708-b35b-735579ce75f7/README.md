@@ -5,10 +5,9 @@ version: 1.0.0
 brtxVersion: 1.4
 lastUpdated: 2025-10-23
 author: QuirkyPlague
-hash: [Optional settings hash from Creator output]
-rtxStub: [https://drive.google.com/file/d/1wGj_CyaF2ESBURLvkrzSwuvSsCtuRL_g/view?usp=drive_link
-toneMappingStub: [https://drive.google.com/file/d/1i1KlfX5kIk2Ulp7Xi-qANE0LlaiDfAgF/view?usp=drive_link]
-bloomStub: [https://drive.google.com/file/d/1MAZ1pvTR-ucv6SH5PeackY4yZ0rJ_eyQ/view?usp=drive_link]
+rtxStub: https://drive.google.com/file/d/1wGj_CyaF2ESBURLvkrzSwuvSsCtuRL_g/view?usp=drive_link
+toneMappingStub: https://drive.google.com/file/d/1i1KlfX5kIk2Ulp7Xi-qANE0LlaiDfAgF/view?usp=drive_link
+bloomStub: https://drive.google.com/file/d/1MAZ1pvTR-ucv6SH5PeackY4yZ0rJ_eyQ/view?usp=drive_link
 ---
 
 # Iridescence
