@@ -3,12 +3,12 @@ name: Seraphic
 installerTitle: "BetterRTX 1.3: Seraphic by 0x4a4b"
 version: 1.1.0
 brtxVersion: 1.3
-lastUpdated: 2025-03-22
+lastUpdated: 2025-09-30
 author: "0x4a4b"
 authorURL: https://elys-pbr.netlify.app/
-rtxStub: https://drive.google.com/file/d/11gjj567FFRVSjUTiKA2h3pC8Z0mS4oTU/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/1vZ6qQG_3rEqRTvhmWjJCsJ-aTnQpaSko/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/1hFfr7FjyBg97MABuglYulHX1pYFVMlrF/view?usp=sharing
+rtxStub: https://cdn.bedrock.graphics/presets/seraphic/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/seraphic/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/seraphic/materials/RTXPostFX.Bloom.material.bin
 tags: [Depth of Field, Rain, Tone Mapping, Experimental, Chromatic Aberration, Water, Shadows, Realistic]
 sort: 2
 ---

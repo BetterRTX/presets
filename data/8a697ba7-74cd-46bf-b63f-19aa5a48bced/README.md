@@ -3,11 +3,11 @@ name: "Cat's Pack"
 installerTitle: "BetterRTX 1.2.2: Cat's Pack by ItsDrCat"
 version: 1.0.0
 brtxVersion: 1.2.2
-lastUpdated: 2024-09-21
+lastUpdated: 2024-10-18
 author: "ItsDrCat"
-rtxStub: https://drive.google.com/file/d/1ojRDyZeIi2-VG0XM-Zo3_99UP_gdP8J0/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/1iN7Q-TbhWAYvoMZsv8ZJCeIxGnlceljp/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/1dNtcnCxv4HLLFUb_Er8FA-BsnZlpSIqL/view?usp=sharing
+rtxStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXPostFX.Bloom.material.bin
 tags: [Depth of Field, Rain, Tone Mapping, Experimental, Shadows, Realistic, Survival]
 ---
 

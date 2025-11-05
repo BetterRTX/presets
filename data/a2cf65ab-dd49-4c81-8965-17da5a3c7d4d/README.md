@@ -4,10 +4,10 @@ installerTitle: BetterRTX 1.4
 slug: betterrtx
 version: 1.4
 brtxVersion: 1.4
-rtxStub: https://drive.google.com/file/d/1RsPi145X_SVoUEd_ywlwtOVQBX4OWBY2/view?usp=sharing
-toneMappingStub: https://drive.google.com/file/d/1Bmr1VpNXo3V3Ja2-yZebvsysI0BAN3MQ/view?usp=sharing
-bloomStub: https://drive.google.com/file/d/1XIfxanTej9GjK6gwZ0KaqFeyEL9Vd8yc/view?usp=sharing
-lastUpdated: 2025-05-13
+rtxStub: https://cdn.bedrock.graphics/presets/betterrtx/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/betterrtx/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/betterrtx/materials/RTXPostFX.Bloom.material.bin
+lastUpdated: 2025-09-30
 author: "MADLAD & John"
 tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky]
 sort: 1
