@@ -1,4 +1,4 @@
-﻿---
+---
 name: "Iridescence"
 installerTitle: "Iridescence By: QuirkyPlague"
 version: 1.0.3
