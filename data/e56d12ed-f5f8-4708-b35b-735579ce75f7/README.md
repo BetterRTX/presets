@@ -1,9 +1,9 @@
----
+﻿---
 name: "Iridescence"
 installerTitle: "Iridescence By: QuirkyPlague"
-version: 1.0.0
+version: 1.0.3
 brtxVersion: 1.4
-lastUpdated: 2025-10-23
+lastUpdated: 2026-01-20
 author: QuirkyPlague
 rtxStub: https://drive.google.com/file/d/1wGj_CyaF2ESBURLvkrzSwuvSsCtuRL_g/view?usp=drive_link
 toneMappingStub: https://drive.google.com/file/d/1i1KlfX5kIk2Ulp7Xi-qANE0LlaiDfAgF/view?usp=drive_link
@@ -28,3 +28,9 @@ Welcome to Iridescence a new preset designed to give raytracing a much needed st
 
 # New Tonemap operator
 * This preset runs on the Lottes tonemap operator, completely new to BetterRTX with Iridescence. Its a very well balanced tonemap that offers great colors and contrast while still being extremely playable!
+
+# Denoising tweaks
+* Denoising on reflections has seen a few tweaks. It is now less aggressive resulting in sharper more detailed reflections, as well as less ghosting and faster reprojection timings.
+
+# Water and puddle changes
+* Water and puddles have a new look. Both utilize a custom water wave system to simulate waves on oceans and small ripples in puddles
