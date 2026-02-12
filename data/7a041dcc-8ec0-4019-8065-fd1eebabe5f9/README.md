@@ -4,9 +4,9 @@ installerTitle: "BetterRTX 1.4: Depth of Field"
 slug: betterrtx-depth-of-field
 version: 1.4
 brtxVersion: 1.4
-rtxStub: https://cdn.bedrock.graphics/presets/betterrtx-depth-of-field/materials/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/betterrtx-depth-of-field/materials/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/betterrtx-depth-of-field/materials/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/26.0-game-update/betterrtx-depth-of-field/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/26.0-game-update/betterrtx-depth-of-field/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/26.0-game-update/betterrtx-depth-of-field/materials/RTXPostFX.Bloom.material.bin
 lastUpdated: 2025-09-30
 author: "MADLAD & John"
 tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky, Depth of Field]

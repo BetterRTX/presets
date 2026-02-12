@@ -6,9 +6,9 @@ version: 1.0.0
 brtxVersion: 1.3.1
 lastUpdated: 2025-04-25
 author: K3013
-rtxStub: https://static.bedrock.graphics/presets/k3013-vibrant-preset/RTXStub.material.bin
-toneMappingStub: https://static.bedrock.graphics/presets/k3013-vibrant-preset/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://static.bedrock.graphics/presets/k3013-vibrant-preset/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/26.0-game-update/k3013-vibrant-preset/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/26.0-game-update/k3013-vibrant-preset/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/26.0-game-update/k3013-vibrant-preset/materials/RTXPostFX.Bloom.material.bin
 ---
 
 # Vibrant Preset
