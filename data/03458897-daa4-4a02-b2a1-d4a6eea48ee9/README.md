@@ -3,9 +3,9 @@ name: Weather's Developer (Debug)
 installerTitle: "BetterRTX 1.3.1: Weather's Developer Preset (Debug Edition)"
 version: 1.3.1-debug
 brtxVersion: 1.3.1
-rtxStub: https://cdn.bedrock.graphics/presets/weather-s-developer-debug/materials/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/weather-s-developer-debug/materials/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/weather-s-developer-debug/materials/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/26.0-game-update/weather-s-developer-debug/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/26.0-game-update/weather-s-developer-debug/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/26.0-game-update/weather-s-developer-debug/materials/RTXPostFX.Bloom.material.bin
 lastUpdated: 2025-09-30
 author: "Weather"
 tags: [CAS, Multi Bounce Specular Rays, DLSS 4]

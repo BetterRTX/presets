@@ -2,9 +2,9 @@
 name: GLITCHCORE
 version: 1.0.0
 brtxVersion: 1.2.2
-rtxStub: https://cdn.bedrock.graphics/presets/glitchcore/materials/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/glitchcore/materials/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/glitchcore/materials/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/26.0-game-update/glitchcore/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/26.0-game-update/glitchcore/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/26.0-game-update/glitchcore/materials/RTXPostFX.Bloom.material.bin
 lastUpdated: 2025-09-30
 author: Jason
 authorURL: https://github.com/jasonjgardner

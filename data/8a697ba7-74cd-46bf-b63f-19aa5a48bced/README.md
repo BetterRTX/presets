@@ -5,9 +5,9 @@ version: 1.0.0
 brtxVersion: 1.2.2
 lastUpdated: 2024-10-18
 author: "ItsDrCat"
-rtxStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/cat-s-pack/materials/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/26.0-game-update/cat-s-pack/materials/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/26.0-game-update/cat-s-pack/materials/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/26.0-game-update/cat-s-pack/materials/RTXPostFX.Bloom.material.bin
 tags: [Depth of Field, Rain, Tone Mapping, Experimental, Shadows, Realistic, Survival]
 ---
 
