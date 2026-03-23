@@ -1,7 +1,7 @@
 ---
 name: "Strawberry RT Build 2.0 (High)"
 installerTitle: "Strawberry RT Build 2.0 (High) By Strawberry Graphics "
-version: 2.0.0
+version: 2.0
 brtxVersion: 1.4
 lastUpdated: 2026-03-23
 author: Muhammad Rifki
@@ -18,14 +18,14 @@ tags: Realistic, Water, Sky
 ---
 
 # Description:
-Strawberry RT Build 20 is a Better RTX-based ray tracing shader that aims to make your gaming experience much more realistic and natural, in addition to this high version it also provides smooth lighting transitions, realistic rayleights and calm water waves.
+Strawberry RT Build 2.0 is a Better RTX-based ray tracing shader that aims to make your gaming experience much more realistic and natural, in addition to this high version it also provides smooth lighting transitions, realistic rayleights and calm water waves.
 
 # Changelogs:
 1. Burley diffuse BRDF.
-2. Entity emessive support.
+2. Entity emissive support.
 3. Rain wetness and puddles support.
 4. Custom sun light.
-5. Realistic rayleights.
+5. Realistic rayleigh.
 6. Realistic night sky.
 7. Calm water waves.
 8. Aces tonemapping with 6000K color temperature.
