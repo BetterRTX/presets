@@ -5,9 +5,9 @@ version: 1.0.3
 brtxVersion: 1.4
 lastUpdated: 2026-01-20
 author: QuirkyPlague
-rtxStub: https://cdn.bedrock.graphics/presets/26.0-game-update/iridescence/materials/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.0-game-update/iridescence/materials/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.0-game-update/iridescence/materials/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/iridescence/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/iridescence/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/iridescence/RTXPostFX.Bloom.material.bin
 ---
 
 # Iridescence
