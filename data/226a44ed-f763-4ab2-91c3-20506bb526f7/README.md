@@ -14,7 +14,7 @@ bloomStub: https://drive.google.com/drive/folders/1fxsZTyomosoORitmBp9kQN3NPwLHR
 bloomChecksum: 7d836cf138128433751d8bcace23c31ceeb43b26b0e0535877d933271cdecfa8
 Logo: https://drive.google.com/file/d/1aHdz5T-nWp5UmRoVc2chDMEX9pzKFu72/view?usp=sharing
 Screenshot: https://drive.google.com/drive/folders/1L4Vl7YlMkVY1LfOvCniB7CmOxvGy7jT_?usp=sharing
-tags: Realistic, Water, Sky
+tags: [Realistic, Water, Sky]
 ---
 
 # Description:
