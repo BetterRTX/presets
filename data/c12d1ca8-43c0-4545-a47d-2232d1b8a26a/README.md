@@ -3,7 +3,7 @@ name: "BetterRTX 1.4: Pixelated Lighting"
 installerTitle: "BetterRTX 1.4: Pixelated Lighting"
 slug: betterrtx-pixelated-lighting
 version: 1.4
-brtxVersion: 1.4
+brtxVersion: 1.4.3
 rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/c12d1ca8-43c0-4545-a47d-2232d1b8a26a/RTXStub.material.bin
 toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/c12d1ca8-43c0-4545-a47d-2232d1b8a26a/RTXPostFX.Tonemapping.material.bin
 bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/c12d1ca8-43c0-4545-a47d-2232d1b8a26a/RTXPostFX.Bloom.material.bin

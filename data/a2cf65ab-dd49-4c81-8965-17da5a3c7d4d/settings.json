@@ -1,0 +1,8 @@
+{
+    "$schema": "https://bedrock.graphics/creator/schema",
+    "DESIRED_DIFFUSE_PAPER_WHITE_LUMINANCE": 0.15,
+    "DO_MULTI_DIFFUSE_RAY_BOUNCE": true,
+    "ENABLE_HDR": true,
+    "ENABLE_MULTI_BOUNCE_SPECULAR_RAYS": true,
+    "MAX_EV": 3.5
+}

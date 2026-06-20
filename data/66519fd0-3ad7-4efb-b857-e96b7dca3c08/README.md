@@ -3,7 +3,7 @@ name: Gilded Graphics
 installerTitle: Gilded Graphics
 slug: gilded-graphics
 version: 1.0
-brtxVersion: 1.4
+brtxVersion: 1.4.3
 rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/66519fd0-3ad7-4efb-b857-e96b7dca3c08/RTXStub.material.bin
 toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/66519fd0-3ad7-4efb-b857-e96b7dca3c08/RTXPostFX.Tonemapping.material.bin
 bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/66519fd0-3ad7-4efb-b857-e96b7dca3c08/RTXPostFX.Bloom.material.bin

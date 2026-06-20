@@ -3,7 +3,7 @@ name: "BetterRTX 1.4: Depth of Field"
 installerTitle: "BetterRTX 1.4: Depth of Field"
 slug: betterrtx-depth-of-field
 version: 1.4
-brtxVersion: 1.4
+brtxVersion: 1.4.3
 rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/7a041dcc-8ec0-4019-8065-fd1eebabe5f9/RTXStub.material.bin
 toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/7a041dcc-8ec0-4019-8065-fd1eebabe5f9/RTXPostFX.Tonemapping.material.bin
 bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/7a041dcc-8ec0-4019-8065-fd1eebabe5f9/RTXPostFX.Bloom.material.bin
