@@ -6,9 +6,9 @@ brtxVersion: 1.3
 lastUpdated: 2025-09-30
 author: "0x4a4b"
 authorURL: https://elys-pbr.netlify.app/
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/seraphic/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/seraphic/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/seraphic/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/7ba75ad1-aaea-4627-89b5-314e9e204fe2/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/7ba75ad1-aaea-4627-89b5-314e9e204fe2/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/7ba75ad1-aaea-4627-89b5-314e9e204fe2/RTXPostFX.Bloom.material.bin
 tags: [Depth of Field, Rain, Tone Mapping, Experimental, Chromatic Aberration, Water, Shadows, Realistic]
 sort: 2
 ---

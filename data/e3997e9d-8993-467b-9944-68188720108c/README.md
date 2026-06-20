@@ -2,9 +2,9 @@
 name: JG Cinematic Desaturated Preset
 version: 2.0.0
 brtxVersion: 1.2.2
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/jg-cinematic-desaturated-preset/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/jg-cinematic-desaturated-preset/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/jg-cinematic-desaturated-preset/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/e3997e9d-8993-467b-9944-68188720108c/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/e3997e9d-8993-467b-9944-68188720108c/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/e3997e9d-8993-467b-9944-68188720108c/RTXPostFX.Bloom.material.bin
 lastUpdated: 2025-09-30
 author: Jason
 authorURL: https://github.com/jasonjgardner

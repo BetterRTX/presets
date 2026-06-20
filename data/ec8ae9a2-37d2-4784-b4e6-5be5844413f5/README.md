@@ -6,9 +6,9 @@ brtxVersion: 1.4
 lastUpdated: 2025-09-30
 author: QuirkyPlague
 authorURL: https://discord.com/channels/@me/1281316135169560676/1281353931338940471
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/infectious/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/infectious/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/infectious/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/ec8ae9a2-37d2-4784-b4e6-5be5844413f5/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/ec8ae9a2-37d2-4784-b4e6-5be5844413f5/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/ec8ae9a2-37d2-4784-b4e6-5be5844413f5/RTXPostFX.Bloom.material.bin
 tags: [Water, Tone Mapping, Shadows]
 ---
 # Infectious

@@ -7,9 +7,9 @@ brtxVersion: 1.4
 lastUpdated: 2026-03-23
 author: Muhammad Rifki
 authorURL: https://discord.gg/yHvF7TaW72
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/strawberry-rt-high/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/strawberry-rt-high/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/strawberry-rt-high/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/226a44ed-f763-4ab2-91c3-20506bb526f7/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/226a44ed-f763-4ab2-91c3-20506bb526f7/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/226a44ed-f763-4ab2-91c3-20506bb526f7/RTXPostFX.Bloom.material.bin
 tags: [Realistic, Water, Sky]
 ---
 

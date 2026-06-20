@@ -4,9 +4,9 @@ installerTitle: "BetterRTX 1.4: Pixelated Lighting"
 slug: betterrtx-pixelated-lighting
 version: 1.4
 brtxVersion: 1.4
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/betterrtx-pixelated-lighting/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/betterrtx-pixelated-lighting/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/betterrtx-pixelated-lighting/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/c12d1ca8-43c0-4545-a47d-2232d1b8a26a/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/c12d1ca8-43c0-4545-a47d-2232d1b8a26a/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/c12d1ca8-43c0-4545-a47d-2232d1b8a26a/RTXPostFX.Bloom.material.bin
 lastUpdated: 2025-09-30
 author: "MADLAD & John"
 tags: [Base, Rain, Tone Mapping, Shadows, Survival, Water, Sky]

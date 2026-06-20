@@ -6,9 +6,9 @@ brtxVersion: 1.4
 lastUpdated: 2025-09-30
 author: Gizmonaught
 authorURL: https://discord.com/users/1056322421403160577
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/solace/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/solace/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/solace/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/25062d15-501c-4012-a848-0fcab65bdc47/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/25062d15-501c-4012-a848-0fcab65bdc47/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/25062d15-501c-4012-a848-0fcab65bdc47/RTXPostFX.Bloom.material.bin
 tags: [Water, Tone Mapping, Shadows, Realistic, Rain, Survival, Sky]
 ---
 # Solace

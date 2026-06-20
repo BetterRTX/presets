@@ -6,9 +6,9 @@ brtxVersion: 1.4
 lastUpdated: 2025-09-30
 author: QuirkyPlague
 authorURL: https://discord.com/channels/@me/1281316135169560676/1281353931338940471
-rtxStub: https://cdn.bedrock.graphics/presets/26.10-game-update/interstellar/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/26.10-game-update/interstellar/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/26.10-game-update/interstellar/RTXPostFX.Bloom.material.bin
+rtxStub: https://cdn.bedrock.graphics/presets/v26.40.26/203a7bec-e6e8-41fe-9703-b7d187e23315/RTXStub.material.bin
+toneMappingStub: https://cdn.bedrock.graphics/presets/v26.40.26/203a7bec-e6e8-41fe-9703-b7d187e23315/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://cdn.bedrock.graphics/presets/v26.40.26/203a7bec-e6e8-41fe-9703-b7d187e23315/RTXPostFX.Bloom.material.bin
 tags: [Experimental, Tone Mapping, Sky]
 ---
 
